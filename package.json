@@ -1,0 +1,26 @@
+{
+  "name": "occasional-cyan-hyena",
+  "version": "1.0.0",
+  "description": "This is package occasional-cyan-hyena",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "to-rupiah": "^1.0.6",
+    "generate-product": "^1.0.2",
+    "numeric-toolkit": "^1.0.3",
+    "calculus-toolkit": "^1.0.2",
+    "advanced-calculus-toolkit": "^1.0.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luthfiamrullah/occasional-cyan-hyena.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
